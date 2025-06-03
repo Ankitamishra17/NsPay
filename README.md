@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NsPay Virtual Currency
 
 NsPay is a virtual currency system designed to facilitate secure and seamless digital transactions. Built with JavaScript, Next.js, MongoDB, Shadow-cljs, and Clerk authentication, NsPay offers a modern and efficient platform for managing virtual currencies.
@@ -49,3 +50,7 @@ We welcome contributions! If you'd like to contribute to NsPay, please follow ou
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+=======
+# NsPay
+https://nspay.vercel.app/
+>>>>>>> 89f558ba3f96b51645e2b21d6d5399b41e71dcf2
