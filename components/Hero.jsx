@@ -14,10 +14,10 @@ export default async function Hero() {
                     An frictional currency powered and built by javascript<span className="text-primary">.</span>
                 </h1>
                 <p className="text-xs md:text-sm mt-1 text-center">
-                    this is my imagination of a currency that didn't exists in this universe, pay/get/exchange/buy/sell using user dashboard.
+                    this is my imagination of a currency that didn't exist in this universe, pay/get/exchange/buy/sell using user dashboard.
                 </p>
                 <div className="mt-6 flex items-center justify-center gap-2">
-                    <Button variant="secondary" asChild><Link className="flex items-center justify-center gap-2" href="https://github.com/nileshsinghofficial/NsPay">Source<Github className="h-4 w-4 hidden" /></Link></Button>
+                    <Button variant="secondary" asChild><Link className="flex items-center justify-center gap-2" href="https://github.com/Ankitamishra17/NsPay">Source<Github className="h-4 w-4 hidden" /></Link></Button>
                     <Button asChild><Link href={!user ? "/sign-up" : "/dashboard"}>Get Started</Link></Button>
                 </div>
             </div>
